@@ -1,0 +1,14 @@
+{
+  "name": "24.express",
+  "version": "1.0.0",
+  "description": "server-express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darío Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
